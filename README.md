@@ -22,12 +22,24 @@ Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, Reac
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
+<div align="center" style="margin-top:40px; margin-bottom:40px;">
 
-### ⚔️ Developer's Journey
+<p style="
+    font-size:20px; 
+    font-style:italic; 
+    font-weight:600; 
+    color:#e5e5e5; 
+    line-height:1.8; 
+    max-width:700px;
+    margin-top:15px;
+    margin-bottom:35px;
+">
+“ A developer falls, rises, and tries again.<br>
+Every bug is a battle, every fix a victory.<br>
+This journey is tough — but so are we. ”
+</p>
 
-**_"A developer falls, rises, and tries again._**  
-**_Every bug is a battle, every fix a victory._**  
-**_This journey is tough — but so are we."_**
+<hr style="border:0; height:1px; background:#333; width:55%; margin-top:20px;" />
 
 </div>
+
