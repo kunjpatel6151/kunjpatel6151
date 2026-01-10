@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, React, Node.js<br>Secondary Weapons: Python, SQL, MongoDB, Tailwind<br>Special Ability: Staying calm under pressure and adapting like it’s a boss fight<br>Current Objective: Keep leveling up as a developer and unlock new abilities
+Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, React, Node.js<br>Secondary Weapons: Python, SQL, MongoDB, Tailwind<br>Special Ability: Staying calm under pressure and adapting <br>Current Objective: Keep leveling up as a developer and unlock new abilities
 
 
 # 🖥️ Core Languages:
