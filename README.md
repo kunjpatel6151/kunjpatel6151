@@ -1,3 +1,9 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc4NTg4aDM5azFiczBybXN3cjN6OGU2dTIxZ2J2djAzMDh2a2FudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
+  
+  ![snake gif](https://github.com/kunjpatel6151/kunjpatel6151/blob/output/github-snake-dark.svg)
+
+
+
 # 💫 About Me:
 Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, React, Node.js<br>Secondary Weapons: Python, SQL, MongoDB, Tailwind<br>Special Ability: Staying calm under pressure and adapting <br>Current Objective: Keep leveling up as a developer and unlock new abilities
 
