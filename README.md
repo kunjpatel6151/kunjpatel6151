@@ -7,24 +7,25 @@
 Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, React, Node.js<br>Secondary Weapons: Python, SQL, MongoDB, Tailwind<br>Special Ability: Staying calm under pressure and adapting <br>Current Objective: Keep leveling up as a developer and unlock new abilities
 
 ## 🌐 Connect With Me
+
 <p>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/kunj-patel-876a41325/)" target="_blank">
+  <a href="https://www.linkedin.com/in/kunj-patel-876a41325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="[https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME](https://codeforces.com/profile/Kunj_Patel_6151)" target="_blank">
+  <a href="https://codeforces.com/profile/Kunj_Patel_6151" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
-  <a href="[https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME](https://www.geeksforgeeks.org/profile/kunjpatel6151)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/kunjpatel6151" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
-  <a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/Kunjkumar_Patel/)" target="_blank">
+  <a href="https://leetcode.com/u/Kunjkumar_Patel/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="[https://codolio.com/profile/YOUR_CODOLIO_USERNAME](https://codolio.com/profile/Kunj_Patel_6151)" target="_blank">
+  <a href="https://codolio.com/profile/Kunj_Patel_6151" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
