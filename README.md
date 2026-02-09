@@ -28,7 +28,12 @@ Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, Reac
   <a href="https://codolio.com/profile/Kunj_Patel_6151" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+
+  <a href="https://monkeytype.com/profile/kunjkumar_patel" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=keyboard&logoColor=black"/>
+  </a>
 </p>
+
 
 # 🖥️ Core Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -53,21 +58,20 @@ Name: Kunj Patel<br>Class: CSE Student<br>Primary Weapons: C++, JavaScript, Reac
 <div align="center" style="margin-top:40px; margin-bottom:40px;">
 
 <p style="
-    font-size:20px; 
-    font-style:italic; 
-    font-weight:600; 
-    color:#e5e5e5; 
-    line-height:1.8; 
-    max-width:700px;
-    margin-top:15px;
-    margin-bottom:35px;
+    font-size:19px;
+    font-style:italic;
+    font-weight:500;
+    color:#dcdcdc;
+    line-height:1.9;
+    max-width:720px;
+    margin-top:20px;
+    margin-bottom:30px;
 ">
-“ A developer falls, rises, and tries again.<br>
-Every bug is a battle, every fix a victory.<br>
-This journey is tough — but so are we. ”
+“ A developer falls, rises, and tries again.<br> Every bug is a battle, every fix a victory.<br> This journey is tough — but so are we. ”
 </p>
 
-<hr style="border:0; height:1px; background:#333; width:55%; margin-top:20px;" />
+<hr style="border:0; height:1px; background:#2f2f2f; width:50%; margin-top:25px;" />
 
 </div>
+
 
